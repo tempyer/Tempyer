@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>abc43211</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.80F5B920-B001-4A16-939B-7B95DF1B1516</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>80F5B920-B001-4A16-939B-7B95DF1B1516</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.50.132</string>
+			<key>ProxyServerPort</key>
+			<integer>1082</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>WH-iPhone</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>WH代理文件</string>
+	<key>PayloadIdentifier</key>
+	<string>MacBook-Pro-WangHu-10.13CAC6CC-BC57-4ADE-8DB4-AF5EC12A66D2</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BA31D779-EC32-4076-A139-3C811CBDCA0A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
